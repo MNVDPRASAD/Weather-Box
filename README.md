@@ -1,7 +1,7 @@
 🌦 The Weather Box
 
 Access the URL:
-https://weather-qq277eg0k-mnvdprasads-projects.vercel.app
+https://weather-box-ten.vercel.app
 
 Weather Box is a modern, simple, animated weather web application built with a single HTML file and a secure serverless backend.
 It provides real-time weather data, hourly forecasts, air quality, UV index, and dynamic UI animations based on weather conditions.
